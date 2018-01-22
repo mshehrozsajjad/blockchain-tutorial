@@ -1,6 +1,6 @@
 # Learn Blockchains by Building One
 
-This is the source code from a this post [Building a Blockchain](https://medium.com/p/117428612f46). 
+This is the source code from this post [Building a Blockchain](https://medium.com/p/117428612f46). 
 
 ## Installation
 
